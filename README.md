@@ -63,14 +63,11 @@ This project focuses on:
 ## 🚀 How to Run
 
 ```bash```
-make
-./minishell
+- make
+- ./minishell
 
 Then start typing commands like in a real shell:
 
-bash
-Copy
-Edit
 minishell> echo Hello World
 minishell> ls -l | grep minishell > file
 minishell> cat << EOF
