@@ -68,8 +68,10 @@ This project focuses on:
 
 Then start typing commands like in a real shell:
 
+```
 minishell> echo Hello World
 minishell> ls -l | grep minishell > file
 minishell> cat << EOF
 heredoc works!
 EOF
+```
